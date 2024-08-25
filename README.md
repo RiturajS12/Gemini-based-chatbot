@@ -20,10 +20,10 @@ This project is a web application built with Streamlit that integrates with Goog
 
 ### 1. Clone the Repository
 
-`\`bash
+`bash
 git clone https://github.com/riturajs12/Gemini-based-chatbot.git
 cd your-repository
-\`
+'
 
 ### 2. Create a Virtual Environment
 
