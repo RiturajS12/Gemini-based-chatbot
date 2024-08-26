@@ -20,23 +20,23 @@ This project is a web application built with Streamlit that integrates with Goog
 
 ### 1. Clone the Repository
 
-`bash
+```bash
 git clone https://github.com/riturajs12/Gemini-based-chatbot.git
 cd your-repository
-`
+```
 
 ### 2. Create a Virtual Environment
 
-`bash
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use \`venv\\Scripts\\activate\`
-`
+```
 
 ### 3. Install Dependencies
 
-`bash
+```bash
 pip install -r requirements.txt
-`
+```
 
 ### 4. Set Up Environment Variables
 
@@ -48,9 +48,9 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ### 5. Run the Application
 
-`bash
+```bash
 streamlit run app.py
-`
+```
 
 Replace \`app.py\` with the name of your Python file if it's different.
 
